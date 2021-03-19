@@ -1,0 +1,400 @@
+* {
+
+	background-color: #52746B;
+
+	
+	margin: 2px;
+
+	padding: 0px;
+	
+	font-family: Roboto Mono;
+
+
+}
+
+.todo_index{
+
+
+
+}
+
+
+
+.arriba{
+	border: 10px dashed #AD0289;
+	text-align: center;
+	background-color: #87CEEB;
+	text-decoration: none;
+	font-size: 16px;
+    color: #fff;
+
+
+}
+
+.tituloprincipal{
+
+	font-size: 40px;
+	background-color: #BE812D;
+	padding: 5px;
+	display: inline-block;
+	border: 4px groove blue;
+	margin-left: 4px;
+	margin-top: 50px;
+
+
+	
+
+}
+
+
+.inicio{
+	display: inline-block;
+}
+
+
+.descargar{
+
+	display: inline-block; 
+
+}
+
+.maspaginas{
+
+	display: inline-block;
+
+}
+
+
+
+
+#goku {
+
+
+
+	margin: 50px;
+
+
+
+}
+
+#dead {
+
+	margin: 50px;
+
+
+	
+}
+
+#capitan {
+
+	margin: 50px;
+
+	
+
+}
+
+
+.textoprincipal {
+    margin-top:20px;
+
+    width: 750px;
+
+    border:3px solid black;
+}
+
+#texto_principal{
+  
+    font-size:18px;
+
+	margin: 5px;
+
+    background: #1F9740;
+
+    padding: 5px;
+}
+
+.textosecundario {
+
+	    margin-top:20px;
+
+    width: 750px;
+
+    border:3px solid black;
+
+
+}
+
+#texto_secundario {
+
+  
+    font-size:18px;
+
+	margin: 5px;
+
+    background: #1F9740;
+
+    padding: 5px;
+
+    text-align: center;
+
+}
+
+
+
+.skinmarvel{
+
+	display: inline-block;
+
+}
+
+
+
+
+
+
+
+@import 'https://fonts.googleapis.com/css?family=Rubik+One';
+
+.button{ 
+  margin: 0; 
+  padding: 0; 
+  height: 100%; 
+  width: 100%; 
+ 
+}
+
+%test {
+  position: absolute;
+	content: '';
+	transition: all .5s;
+}
+
+.button2 { 
+ 
+	display: inline-block; 
+	padding: 10px 20px;
+	color: white;
+	position: absolute;
+	top: 61%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	vertical-align: middle;
+	font-family: 'Rubik One', sans-serif;
+	text-decoration: none;
+	font-size: 4vw;
+	transition: all .5s;
+	background-color: #3498db;
+}
+
+.todo1{
+
+	text-align: center;
+
+	
+
+}
+.todo2{
+
+	margin-top: 100px;
+	text-align: center;
+
+}
+
+
+
+.marvelskins{
+
+	font-family: 'Rubik One', sans-serif;
+	font-size: 50px;
+	
+	border: groove #C80303;
+
+}
+
+.capiskin{
+	background-color: #171717;
+	margin: 20px;
+
+}
+
+
+.skinmarvel{
+
+	margin: 20px;
+
+	display: inline-block;
+
+	text-align: center;
+}
+
+
+.skindragon{
+
+	margin: 20px;	
+
+	display: inline-block;
+
+}
+
+
+
+.skinskips{
+
+	margin: 20px;	
+
+	display: inline-block;
+
+}
+
+
+.skinarrow{
+
+	margin: 20px;	
+
+	display: inline-block;
+
+}
+
+.randomskins1{
+
+	margin: 20px;
+	display: inline-block;
+
+}
+
+
+
+.texto1{
+
+	background-color: #4C8523;
+	border: dotted;
+	font-size: 20px;
+
+	padding: 5px;
+	display: inline-block;
+	
+	margin-left: 4px;
+	margin-top: 15px;
+
+
+}
+
+
+
+.titulo2{
+
+	margin-top: 50px;
+	border: solid;
+	display: inline-block;
+}
+
+
+.skinsrandom{
+
+	background-color: #171717;
+
+}
+
+
+.paginas{
+
+	text-align: center;
+	margin-top: 75px;
+
+}
+
+
+
+.tituloprincipalpaginas{
+
+	margin-top: 45px;
+
+}
+
+
+
+
+#mobile-menu {
+    
+	
+
+	background-color: #131313;
+}
+#mobile-footer-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+
+	background-color: #131313;
+}
+
+.mobile-link {
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+   
+	background-color: #131313;
+}
+.mobile-link a {
+    font-size: 16px;
+   
+	background-color: #131313;
+    text-decoration: none;
+}
+
+
+
+#mobile-footer-container{
+
+	background-color: #131313;
+	margin: 15px;
+
+}
+
+
+
+
+.nombrepagina{
+
+	width: 250px;	
+	display: inline-block;
+	border: 1px dashed;
+	border-width: 4px 0;
+	
+	margin-left: 50px;
+	top: 18%;
+	left: 10%;
+	
+	margin: 0 0 0 -20em;
+}
+
+.textoprincipalpaginas1{
+
+	margin-left: 500px;
+	margin-right: 500px;
+
+}
+
+
+.skindex{
+
+	width: 250px;	
+	display: inline-block;
+	border: 50px dashed;
+	border-width: 4px 0;
+	
+
+	top: 18%;
+	left: 10%;
+	
+	margin-left: 20px;
+	margin-right: 750px;
+
+}
+
+.textoprincipalpaginas1{
+
+	margin-right: 300px;
+
+	margin-left: 300px;
+}
